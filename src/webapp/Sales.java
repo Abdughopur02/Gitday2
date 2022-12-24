@@ -8,4 +8,6 @@ public class Sales {
 
     // Christmas Sale 50% off
 
+    // more sale discounts for New Year
+
 }
