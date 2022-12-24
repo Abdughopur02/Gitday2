@@ -10,4 +10,7 @@ public class Sales {
 
     // more sale discounts for New Year
 
+    // We added holiday sales
+    // for holiday sales we have 35% off discount
+
 }
